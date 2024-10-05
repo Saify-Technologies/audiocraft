@@ -18,8 +18,8 @@ xformers<0.0.23
 demucs
 librosa
 soundfile
-gradio
-torchmetrics
+gradio==4.20.0
+torchmetrics==1.4.0
 encodec
 protobuf
 torchvision==0.16.0
